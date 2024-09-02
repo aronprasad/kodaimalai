@@ -1,0 +1,305 @@
+# Copyright (C) 2021 Aislin Themes
+# This file is distributed under the same license as the Aislin Testimonials plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Aislin Testimonials 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/aislin-testimonials\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-10-18T13:48:48+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.5.0\n"
+"X-Domain: aislin-testimonials\n"
+
+#. Plugin Name of the plugin
+msgid "Aislin Testimonials"
+msgstr ""
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "http://themeforest.net/user/Aislin/portfolio"
+msgstr ""
+
+#. Description of the plugin
+msgid "Displays testimonials."
+msgstr ""
+
+#. Author of the plugin
+msgid "Aislin Themes"
+msgstr ""
+
+#: src/Compatibility/Plugins/Testimonial_Rotator/Migrator.php:38
+msgid "Testimonial Rotator content is ready for migration: %sMigrate now%s"
+msgstr ""
+
+#: src/Compatibility/Plugins/Testimonial_Rotator/Migrator.php:76
+msgid "Testimonial Rotator content successfuly migrated"
+msgstr ""
+
+#: src/Compatibility/Plugins/Testimonial_Rotator/Migrator.php:85
+msgid "There was a problem migrating Testimonial Rotator content"
+msgstr ""
+
+#: src/Editor/WPBakery/Blocks/Rotator.php:33
+#: public/js/app.js:326
+#: resources/js/blocks/rotator/edit.js:15
+msgid "Testimonial Rotator"
+msgstr ""
+
+#: src/Editor/WPBakery/Blocks/Rotator.php:39
+msgid "Aislin"
+msgstr ""
+
+#: src/Editor/WPBakery/Blocks/Rotator.php:45
+#: src/Post_Type/Rotator.php:55
+#: src/Taxonomy/Rotator.php:22
+msgid "Rotator"
+msgstr ""
+
+#: src/Post_Type/Rotator.php:54
+#: src/Taxonomy/Rotator.php:21
+#: src/Taxonomy/Rotator.php:23
+msgid "Rotators"
+msgstr ""
+
+#: src/Post_Type/Rotator.php:56
+#: src/Post_Type/Rotator.php:57
+#: src/Post_Type/Rotator.php:59
+#: src/Taxonomy/Rotator.php:26
+msgid "Add New Rotator"
+msgstr ""
+
+#: src/Post_Type/Rotator.php:58
+#: src/Taxonomy/Rotator.php:24
+msgid "Edit Rotator"
+msgstr ""
+
+#: src/Post_Type/Rotator.php:60
+#: src/Post_Type/Testimonial.php:36
+msgid "View Item"
+msgstr ""
+
+#: src/Post_Type/Rotator.php:61
+msgid "Search Rotator"
+msgstr ""
+
+#: src/Post_Type/Rotator.php:62
+#: src/Post_Type/Testimonial.php:38
+msgid "No items found"
+msgstr ""
+
+#: src/Post_Type/Rotator.php:63
+#: src/Post_Type/Testimonial.php:39
+msgid "No items found in trash"
+msgstr ""
+
+#: src/Post_Type/Rotator.php:89
+msgid "Testimonial Count"
+msgstr ""
+
+#: src/Post_Type/Rotator.php:90
+#: src/Post_Type/Testimonial.php:66
+msgid "Shortcode"
+msgstr ""
+
+#: src/Post_Type/Testimonial.php:30
+msgid "Testimonials"
+msgstr ""
+
+#: src/Post_Type/Testimonial.php:31
+msgid "Testimonial"
+msgstr ""
+
+#: src/Post_Type/Testimonial.php:32
+#: src/Post_Type/Testimonial.php:33
+#: src/Post_Type/Testimonial.php:35
+msgid "Add New Testimonial"
+msgstr ""
+
+#: src/Post_Type/Testimonial.php:34
+msgid "Edit Testimonial"
+msgstr ""
+
+#: src/Post_Type/Testimonial.php:37
+msgid "Search Testimonial"
+msgstr ""
+
+#: src/Post_Type/Testimonial.php:63
+msgid "Image"
+msgstr ""
+
+#: src/Post_Type/Testimonial.php:65
+msgid "Rating"
+msgstr ""
+
+#: src/Taxonomy/Rotator.php:25
+msgid "Update Rotator"
+msgstr ""
+
+#: src/Taxonomy/Rotator.php:27
+msgid "New Rotator Name"
+msgstr ""
+
+#: src/Taxonomy/Rotator.php:28
+msgid "Parent Rotator"
+msgstr ""
+
+#: src/Taxonomy/Rotator.php:29
+msgid "Parent Rotator:"
+msgstr ""
+
+#: src/Taxonomy/Rotator.php:30
+msgid "All Rotators"
+msgstr ""
+
+#: src/Taxonomy/Rotator.php:31
+msgid "Search Rotators"
+msgstr ""
+
+#: src/Taxonomy/Rotator.php:32
+msgid "Popular Rotators"
+msgstr ""
+
+#: src/Taxonomy/Rotator.php:33
+msgid "Separate rotators with commas"
+msgstr ""
+
+#: src/Taxonomy/Rotator.php:34
+msgid "Add or remove rotators"
+msgstr ""
+
+#: src/Taxonomy/Rotator.php:35
+msgid "Choose from the most used rotators"
+msgstr ""
+
+#: src/Taxonomy/Rotator.php:36
+msgid "No rotators found."
+msgstr ""
+
+#: public/js/app.js:85
+#: resources/js/blocks/rotator-meta/edit.js:22
+msgid "Rotator Settings"
+msgstr ""
+
+#: public/js/app.js:87
+#: resources/js/blocks/rotator-meta/edit.js:24
+msgid "Transition Effect"
+msgstr ""
+
+#: public/js/app.js:101
+#: resources/js/blocks/rotator-meta/edit.js:32
+msgid "Image Size"
+msgstr ""
+
+#: public/js/app.js:116
+#: resources/js/blocks/rotator-meta/edit.js:41
+msgid "Seconds per Testimonial"
+msgstr ""
+
+#: public/js/app.js:125
+#: resources/js/blocks/rotator-meta/edit.js:47
+msgid "Transition Speed (in seconds)"
+msgstr ""
+
+#: public/js/app.js:134
+#: resources/js/blocks/rotator-meta/edit.js:53
+msgid "Limit Number of Testimonials"
+msgstr ""
+
+#: public/js/app.js:142
+#: resources/js/blocks/rotator-meta/edit.js:58
+msgid "Element for Title Field"
+msgstr ""
+
+#: public/js/app.js:156
+#: resources/js/blocks/rotator-meta/edit.js:66
+msgid "Randomize Testimonials"
+msgstr ""
+
+#: public/js/app.js:164
+#: resources/js/blocks/rotator-meta/edit.js:71
+msgid "Vertical Align (Center Testimonials Height)"
+msgstr ""
+
+#: public/js/app.js:172
+#: resources/js/blocks/rotator-meta/edit.js:76
+msgid "Show Previous/Next Buttons"
+msgstr ""
+
+#: public/js/app.js:180
+#: resources/js/blocks/rotator-meta/edit.js:81
+msgid "Hide Featured Image"
+msgstr ""
+
+#: public/js/app.js:188
+#: resources/js/blocks/rotator-meta/edit.js:86
+msgid "Hide Title"
+msgstr ""
+
+#: public/js/app.js:196
+#: resources/js/blocks/rotator-meta/edit.js:91
+msgid "Hide Stars"
+msgstr ""
+
+#: public/js/app.js:204
+#: resources/js/blocks/rotator-meta/edit.js:96
+msgid "Hide Body"
+msgstr ""
+
+#: public/js/app.js:212
+#: resources/js/blocks/rotator-meta/edit.js:101
+msgid "Hide Author"
+msgstr ""
+
+#: public/js/app.js:220
+#: resources/js/blocks/rotator-meta/edit.js:106
+msgid "Hide Microdata (hReview)"
+msgstr ""
+
+#: public/js/app.js:229
+#: resources/js/blocks/rotator-meta/edit.js:112
+msgid "Name of Item Being Reviewed"
+msgstr ""
+
+#: public/js/app.js:230
+#: resources/js/blocks/rotator-meta/edit.js:113
+msgid "Company Name, Product Name, etc. (not visible on your website, used for search engines)"
+msgstr ""
+
+#: public/js/app.js:328
+#: resources/js/blocks/rotator/edit.js:17
+msgid "Select Rotator"
+msgstr ""
+
+#: public/js/app.js:457
+#: resources/js/blocks/testimonial-meta/edit.js:18
+msgid "Testimonial Settings"
+msgstr ""
+
+#: public/js/app.js:459
+#: resources/js/blocks/testimonial-meta/edit.js:19
+msgid "Star Rating"
+msgstr ""
+
+#: public/js/app.js:485
+#: resources/js/blocks/testimonial-meta/edit.js:29
+msgid "Don't show"
+msgstr ""
+
+#: public/js/app.js:488
+#: resources/js/blocks/testimonial-meta/edit.js:31
+msgid "Author information"
+msgstr ""
+
+#: public/js/app.js:498
+#: resources/js/blocks/testimonial-meta/edit.js:37
+msgid "Author information..."
+msgstr ""
+
+#: public/js/app.js:587
+#: resources/js/blocks/testimonial/edit.js:16
+msgid "Select Testimonial"
+msgstr ""

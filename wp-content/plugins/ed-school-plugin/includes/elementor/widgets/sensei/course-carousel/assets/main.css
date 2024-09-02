@@ -1,0 +1,185 @@
+.linp-featured-courses-carousel h3 {
+    margin-bottom: 30px;
+}
+
+.linp-featured-courses-carousel .no-image {
+    min-height: 170px;
+    background-image: linear-gradient(to top, #cfd9df 0%, #e2ebf0 100%);
+}
+
+.linp-featured-courses-carousel {
+    text-align: center;
+}
+.linp-featured-courses-carousel .featured-course-thumb {
+	width: 100%;
+}
+.linp-featured-courses-carousel .rounded .featured-course-thumb {
+	border-radius: 50%;
+	padding: 12px;
+}
+
+/* Teacher data */
+.linp-featured-courses-carousel .teacher {
+    margin-top: -44px;
+    letter-spacing: 0.5px;
+}
+.linp-featured-courses-carousel .teacher a {
+    padding: 12px;
+    background: #fff;
+    display: inline-block;
+    border-radius: 50%;
+}
+.linp-featured-courses-carousel .teacher img {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+}
+.linp-featured-courses-carousel .teacher p {
+    font-size: 11px;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-bottom: 15px;
+}
+
+.linp-featured-courses-carousel .item {
+    display: none;
+}
+
+.linp-featured-courses-carousel .owl-item {
+    padding: 0 15px;
+    margin-bottom: 15px;
+}
+
+.linp-featured-courses-carousel .owl-item > div.item {
+    background: #fff;
+    border: 1px solid #ecedef;
+    display: block;
+}
+.linp-featured-courses-carousel .owl-item > div.item:hover {
+    box-shadow: 0 5px 15px #123e8a21;
+}
+
+.linp-featured-courses-carousel .owl-item .item-inner-wrap {
+    padding: 15px 40px 7px;
+    background: #fff;
+    transition: margin .2s;
+    position: relative;
+}
+
+.linp-featured-courses-carousel .owl-item .cbp-row {
+    border-top: 1px solid #eaeaea;
+}
+
+.linp-featured-courses-carousel .owl-item .price {
+    float: right;
+}
+.linp-featured-courses-carousel .owl-item .price a {
+    border-radius: 0;
+    padding: 19px 18px;
+}
+
+.linp-featured-courses-carousel h4.course-title,
+.linp-featured-courses-carousel h4.course-title a {
+    margin: 0 0 5px 0;
+    font-size: 18px;
+    line-height: 24px;
+    margin-bottom: 10px;
+}
+
+.linp-featured-courses-carousel .course-excerpt {
+    height: 0;
+    overflow: hidden;
+    transition: height .2s;
+    font-size: 15px;
+    line-height: 1.5em;
+}
+.linp-featured-courses-carousel .owl-item:hover .course-excerpt {
+    height: 85px;
+}
+.linp-featured-courses-carousel .owl-item:hover .item-inner-wrap {
+	margin: -85px 0 0;
+}
+
+
+
+.linp-featured-courses-carousel .course-lesson-count i {
+    font-size: 20px;
+}
+.linp-featured-courses-carousel .course-lesson-count i:before {
+    position: relative;
+    top: 4px;
+}
+.linp-featured-courses-carousel .course-lesson-count {
+    float: left;
+    margin: 0;
+    font-size: 11px;
+    font-weight: 700;
+    text-transform: uppercase;
+    padding: 17px 20px;
+    line-height: 18px;
+}
+
+.linp-featured-courses-carousel .owl-item .price .course-price {
+    float: right;
+    padding: 5px;
+    text-align: center;
+}
+
+.linp-featured-courses-carousel .owl-item .price .course-price:after
+{
+    content: ' ';
+    position: absolute;
+    width: 0;
+    height: 0;
+    right: 0;
+    top: 100%;
+    border-width: 5px 5px;
+    border-style: solid;
+    border-color: #333 transparent transparent #333;
+}
+
+.linp-featured-courses-carousel .owl-item .price .course-price:before
+{
+    content: ' ';
+    position: absolute;
+    width: 0;
+    height: 0;
+    left: -18px;
+    top: 0;
+    border-width: 16px 15px;
+    border-style: solid;
+    border-color: #999 #999 #999 transparent;
+}
+
+.linp-featured-courses-carousel .owl-item .course-price .amount {
+    position: relative;
+}
+
+.linp-featured-courses-carousel .owl-item .course-price.free-course .amount {
+    font-size: 15px;
+}
+
+.linp-featured-courses-carousel .owl-pagination {
+	margin-top: 25px;
+}
+.linp-featured-courses-carousel .owl-pagination .owl-page span {
+	background-color: transparent;
+    border: 2px solid #333;
+}
+.linp-featured-courses-carousel .owl-pagination .owl-page.active span {
+    border: 2px solid #999;
+}
+.linp-featured-courses-carousel .course-link {
+    background: transparent;
+    color: #ff8700;
+    border: 0;
+    border-left: 1px solid #eaeaea;
+}
+.linp-featured-courses-carousel .course-link:hover {
+    background: #ff8700;
+    color: #fff;
+    border: 0;
+}
+.linp-featured-courses-carousel .course-link:after {
+    margin-left: 12px;
+}

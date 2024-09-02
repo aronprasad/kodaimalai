@@ -1,0 +1,76 @@
+<?php return array(
+    'root' => array(
+        'name' => 'akeeba/solo',
+        'pretty_version' => 'dev-main',
+        'version' => 'dev-main',
+        'reference' => 'ba5613dbf1d830fe02fdcbf59bbc897d9062ad7a',
+        'type' => 'project',
+        'install_path' => __DIR__ . '/../../',
+        'aliases' => array(),
+        'dev' => false,
+    ),
+    'versions' => array(
+        'akeeba/awf' => array(
+            'pretty_version' => 'dev-development',
+            'version' => 'dev-development',
+            'reference' => '9aa0ae6e2eda294cbdf75cbc84b532517488f749',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../akeeba/awf',
+            'aliases' => array(
+                0 => '9999999-dev',
+            ),
+            'dev_requirement' => false,
+        ),
+        'akeeba/engine' => array(
+            'pretty_version' => 'dev-development',
+            'version' => 'dev-development',
+            'reference' => '29e7307c6aa34905615634bcbb177d3a96f92548',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../akeeba/engine',
+            'aliases' => array(
+                0 => '9999999-dev',
+            ),
+            'dev_requirement' => false,
+        ),
+        'akeeba/s3' => array(
+            'pretty_version' => 'dev-development',
+            'version' => 'dev-development',
+            'reference' => '452fbd3084f1cb581851a1602226224d29d586d4',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../akeeba/s3',
+            'aliases' => array(
+                0 => '9999999-dev',
+            ),
+            'dev_requirement' => false,
+        ),
+        'akeeba/solo' => array(
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
+            'reference' => 'ba5613dbf1d830fe02fdcbf59bbc897d9062ad7a',
+            'type' => 'project',
+            'install_path' => __DIR__ . '/../../',
+            'aliases' => array(),
+            'dev_requirement' => false,
+        ),
+        'composer/ca-bundle' => array(
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
+            'reference' => '3ce240142f6d59b808dd65c1f52f7a1c252e6cfd',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/./ca-bundle',
+            'aliases' => array(
+                0 => '1.x-dev',
+            ),
+            'dev_requirement' => false,
+        ),
+        'phpmailer/phpmailer' => array(
+            'pretty_version' => 'v6.9.1',
+            'version' => '6.9.1.0',
+            'reference' => '039de174cd9c17a8389754d3b877a2ed22743e18',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../phpmailer/phpmailer',
+            'aliases' => array(),
+            'dev_requirement' => false,
+        ),
+    ),
+);
