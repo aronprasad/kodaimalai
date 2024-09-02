@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'ed-icon';
-  src:  url('../fonts/ed-icon.eot?nj4a9z');
-  src:  url('../fonts/ed-icon.eot?nj4a9z#iefix') format('embedded-opentype'),
-    url('../fonts/ed-icon.ttf?nj4a9z') format('truetype'),
-    url('../fonts/ed-icon.woff?nj4a9z') format('woff'),
-    url('../fonts/ed-icon.svg?nj4a9z#ed-icon') format('svg');
+  src:  url('https://aronprasad.github.io/kodaimalai/wp-content/themes/ed-school/assets/fonts/ed-icon.eot?nj4a9z');
+  src:  url('https://aronprasad.github.io/kodaimalai/wp-content/themes/ed-school/assets/fonts/ed-icon.eot?nj4a9z#iefix') format('embedded-opentype'),
+    url('https://aronprasad.github.io/kodaimalai/wp-content/themes/ed-school/assets/fonts/ed-icon.ttf?nj4a9z') format('truetype'),
+    url('https://aronprasad.github.io/kodaimalai/wp-content/themes/ed-school/assets/fonts/ed-icon.woff?nj4a9z') format('woff'),
+    url('https://aronprasad.github.io/kodaimalai/wp-content/themes/ed-school/assets/fonts/ed-icon.svg?nj4a9z#ed-icon') format('svg');
   font-weight: normal;
   font-style: normal;
 }

@@ -75,5 +75,5 @@
 /* preloading images */
 .owl-item.loading{
 	min-height: 150px;
-	background: url(AjaxLoader.gif) no-repeat center center
+	background: url(https://aronprasad.github.io/kodaimalai/wp-content/plugins/ed-school-plugin/includes/elementor/widgets/sensei/course-carousel/assets/AjaxLoader.gif) no-repeat center center
 }
